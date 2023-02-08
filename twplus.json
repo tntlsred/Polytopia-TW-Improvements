@@ -930,7 +930,7 @@
   "onlineview.tournaments.info.description": "連接到Challengermode開始在Polytopia中打比賽",
   "onlineview.tournament.info.time.left": "000：{0}，1：{1}，5 minites left",
   "onlineview.tournament.info.registered": "已註冊",
-  "onlineview.tournamentlist.available": "000：{0}",
+  "onlineview.tournamentlist.available": "比賽僅在連接到伺服器時可用。",
   "onlineview.tournaments.available": "可用的比賽",
   "challengermode.buttons.connectaccount": "連接帳戶",
   "buttons.connect": "連接",
