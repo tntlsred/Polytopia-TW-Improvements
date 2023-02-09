@@ -1,0 +1,40 @@
+onlineview.tournament.info.time.left
+    {0} 4 minutes left
+
+onlineview.tournament.info.state.value.open
+    open
+onlineview.tournament.info.state
+    state
+onlineview.tournament.info.state.description
+    this tournament is open
+onlineview.tournament.info.slots
+    Slots
+onlineview.tournament.info.players
+    Players
+onlineview.tournament.info.players.description
+    {0}  68 players have signed up for this tournament.\n\nPlayers must confirm their participation to secure their spot. This tournament has 32 {1} slots - first come, first served.
+
+onlineview.tournament.info.header
+    tournament info
+onlineview.tournament.info.name
+    name
+onlineview.tournament.info.format
+    bracket type
+onlineview.tournament.info.created
+    created
+onlineview.tournament.info.starttime
+    start time
+onlineview.tournament.info.contact
+    contact
+onlineview.tournament.info.overview
+    view on Challengermode
+
+onlineview.tournament.info.official
+    official
+onlineview.tournaments.info.description.faq
+    feeling lost? Check the:
+onlineview.tournaments.info.description.faq.button
+    tournament faq
+
+onlineview.tournament.state.confirm.in
+    waiting for confirmation period 00:12:13 {0}
