@@ -38,3 +38,14 @@ onlineview.tournaments.info.description.faq.button
 
 onlineview.tournament.state.confirm.in
     waiting for confirmation period 00:12:13 {0}
+
+gamesettings.loading
+    loading
+replay.viewmode.fog.on
+    enable fog
+replay.viewmode.fog.off
+    disable fog
+gamestats.resignedonturn
+    resigned on turn 10 {0}
+onlineview.tournament.endscreen.linktomatch
+    View result on Challengermode
