@@ -49,3 +49,8 @@ gamestats.resignedonturn
     resigned on turn 10 {0}
 onlineview.tournament.endscreen.linktomatch
     View result on Challengermode
+
+onlineview.tournaments.joined
+    joined tournaments
+buttons.confirm
+    confirm
